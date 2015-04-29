@@ -394,7 +394,6 @@ a:focus{
 }
 .navbar-nav>li>a:hover{
 	padding-left:25px;
-    background color: #CFA600;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form{
