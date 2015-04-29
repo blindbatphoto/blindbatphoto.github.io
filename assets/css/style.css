@@ -295,7 +295,7 @@ a:focus{
 	background:#cc181e;
 	color: #fff;
 }
-.social-btn-box .github-btn:hover{
+.social-btn-box .tumblr-btn:hover{
 	background:#2b2e30;
 	color: #fff;
 }
@@ -658,7 +658,7 @@ a:focus{
 	top: 220px;
 	right: 230px;
 }
-.team-member .social-btn-container .github-btn-container{
+.team-member .social-btn-container .tumblr-btn-container{
 	top: 220px;
 	left: 230px;
 }
@@ -675,7 +675,7 @@ a:focus{
 	top: 115px;
 	right: 122px;
 }
-.team-member:hover .social-btn-container .github-btn-container{
+.team-member:hover .social-btn-container .tumblr-btn-container{
 	top: 115px;
 	left: 122px;
 }
