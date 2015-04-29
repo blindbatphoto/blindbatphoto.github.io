@@ -841,7 +841,7 @@ form.news-letter .btn:hover{
 .contact-message-error{
 	color: #ffffff;
 	position: absolute;
-	background: rgba(52, 152, 219,1);
+	background: rgba(207, 166, 0,1);
 	display: none;
 	left: 25px;
 	top: -30px;
@@ -860,7 +860,7 @@ form.news-letter .btn:hover{
 	height: 0;
 	border-style: solid;
 	border-width: 12px;
-	border-color: rgba(52, 152, 219,1) transparent  transparent transparent;
+	border-color: rgba(207, 166, 0,1) transparent  transparent transparent;
 	left: 25px;
 	bottom: -24px;
 }
